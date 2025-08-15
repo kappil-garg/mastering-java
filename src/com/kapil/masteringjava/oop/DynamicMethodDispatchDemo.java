@@ -1,7 +1,7 @@
 package com.kapil.masteringjava.oop;
 
 /**
- * Program to demonstrate dynamic method dispatch in Java.
+ * Program to demonstrate Dynamic Method Dispatch in Java.
  * Demonstrates dynamic method dispatch using method overriding.
  *
  * @author Kapil Garg

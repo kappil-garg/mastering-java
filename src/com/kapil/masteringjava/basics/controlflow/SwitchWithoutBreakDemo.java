@@ -17,6 +17,12 @@ public class SwitchWithoutBreakDemo {
         switchWithoutBreakDemo(5);
     }
 
+    /**
+     * Demonstrates the behavior of switch-case without break statements.
+     * When a case is matched, execution continues through subsequent cases until a break is encountered.
+     *
+     * @param caseNumber The number to switch on.
+     */
     private static void switchWithoutBreakDemo(int caseNumber) {
         System.out.println("\nExecuting switch case for: " + caseNumber);
         switch (caseNumber) {

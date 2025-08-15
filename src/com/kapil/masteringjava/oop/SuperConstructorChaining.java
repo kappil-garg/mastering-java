@@ -1,7 +1,7 @@
 package com.kapil.masteringjava.oop;
 
 /**
- * Program to demonstrate super constructor chaining in Java.
+ * Program to demonstrate Super Constructor Chaining in Java.
  * Demonstrates how constructors of parent classes are automatically called when a subclass object is created.
  *
  * @author Kapil Garg

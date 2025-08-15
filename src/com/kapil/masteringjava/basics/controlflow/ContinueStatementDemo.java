@@ -18,6 +18,10 @@ public class ContinueStatementDemo {
 
     }
 
+    /**
+     * Demonstrates the use of an unlabeled continue statement.
+     * It skips the current iteration of the inner loop when a specific condition is met.
+     */
     private static void unlabeledContinueDemo() {
         for (int i = 0; i < 3; i++) {
             System.out.println("Outer loop started.");
@@ -34,6 +38,10 @@ public class ContinueStatementDemo {
         System.out.println("Loops finished execution.");
     }
 
+    /**
+     * Demonstrates the use of a labeled continue statement.
+     * It skips the remaining iterations of the inner loop and continues with the next iteration of the outer loop.
+     */
     private static void labeledContinueDemo() {
         LCS:
         for (int i = 0; i < 3; i++) {

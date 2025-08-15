@@ -26,6 +26,13 @@ public class VarargsDemo {
 
     }
 
+    /**
+     * Method to add a variable number of integers.
+     * Uses varargs to accept any number of integer arguments.
+     *
+     * @param numbers Variable-length argument list of integers
+     * @return The sum of the provided integers
+     */
     private static int addNumbers(int... numbers) {
         int sum = 0;
         for (int i : numbers) {

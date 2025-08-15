@@ -1,7 +1,7 @@
 package com.kapil.masteringjava.oop;
 
 /**
- * Program to demonstrate Abstract class in Java.
+ * Program to demonstrate Abstract Class in Java.
  * Demonstrates how an abstract class can define constructors and abstract methods.
  *
  * @author Kapil Garg

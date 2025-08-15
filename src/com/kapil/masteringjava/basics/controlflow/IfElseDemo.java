@@ -15,6 +15,14 @@ public class IfElseDemo {
         printNumberUsingIfElse(0);
     }
 
+    /**
+     * Prints the number based on the value of the input parameter.
+     * If the number is 0, it prints "The number is :: 0".
+     * If the number is 1, it prints "The number is :: 1".
+     * For any other number, it prints "The number is :: <number>".
+     *
+     * @param number The number to be printed.
+     */
     private static void printNumberUsingIfElse(int number) {
         if (number == 0) {
             System.out.println("The number is :: 0");

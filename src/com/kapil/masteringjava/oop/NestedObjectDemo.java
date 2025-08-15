@@ -1,7 +1,7 @@
 package com.kapil.masteringjava.oop;
 
 /**
- * Program to demonstrate a Nested Object in Java.
+ * Program to demonstrate Nested Objects in Java.
  * Demonstrates how a class can contain an instance of another class as a member.
  *
  * @author Kapil Garg

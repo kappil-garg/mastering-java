@@ -18,6 +18,10 @@ public class BreakStatementDemo {
 
     }
 
+    /**
+     * Demonstrates an unlabeled break statement that exits the inner loop when a condition is met.
+     * The outer loop continues its iterations normally.
+     */
     private static void unlabeledBreakDemo() {
         for (int i = 1; i < 5; i++) {
             System.out.println("Outer loop started.");
@@ -34,6 +38,10 @@ public class BreakStatementDemo {
         System.out.println("All iterations of the outer loop completed.");
     }
 
+    /**
+     * Demonstrates a labeled break statement that exits both the inner and outer loops when a condition is met.
+     * The program continues execution after the labeled break.
+     */
     private static void labeledBreakDemo() {
         LBS:
         for (int i = 1; i < 5; i++) {

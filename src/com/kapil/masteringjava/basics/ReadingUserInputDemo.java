@@ -26,6 +26,13 @@ public class ReadingUserInputDemo {
         scanner.close();
     }
 
+    /**
+     * This method prompts the user to enter their year of birth and calculates their age.
+     * It ensures that the entered year is valid and within the specified age limit.
+     *
+     * @param scanner Scanner object to read user input
+     * @return Validated age of the user
+     */
     private static int getValidAge(Scanner scanner) {
         int age = -1;
         while (age < 0 || age > UPPER_AGE_LIMIT) {
@@ -45,6 +52,13 @@ public class ReadingUserInputDemo {
         return age;
     }
 
+    /**
+     * This method prompts the user to enter their name and validates it.
+     * It ensures that the name is not empty or just whitespace.
+     *
+     * @param scanner Scanner object to read user input
+     * @return Validated name of the user
+     */
     private static String getValidName(Scanner scanner) {
         String name = null;
         while (name == null || name.trim().isEmpty()) {

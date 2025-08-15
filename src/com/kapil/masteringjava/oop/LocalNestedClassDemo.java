@@ -1,7 +1,7 @@
 package com.kapil.masteringjava.oop;
 
 /**
- * Program to demonstrate local nested class in Java.
+ * Program to demonstrate Local Nested Class in Java.
  * Demonstrates how a local nested class can access both instance and static members of its enclosing class.
  *
  * @author Kapil Garg

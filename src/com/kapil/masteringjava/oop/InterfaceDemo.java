@@ -1,7 +1,7 @@
 package com.kapil.masteringjava.oop;
 
 /**
- * Program to demonstrate interfaces in Java.
+ * Program to demonstrate Interfaces in Java.
  * Demonstrates how to define and implement interfaces.
  *
  * @author Kapil Garg

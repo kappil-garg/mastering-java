@@ -20,11 +20,20 @@ public class ReturnStatementDemo {
 
     }
 
+    /**
+     * Method that returns an integer value.
+     *
+     * @return an integer value
+     */
     private static int returnWithValue() {
         System.out.println("Inside returnWithValue() method.");
         return 46;
     }
 
+    /**
+     * Method that demonstrates returning from a void method.
+     * It exits the method early based on a condition.
+     */
     private static void returnWithVoid() {
         for (int i = 1; i < 5; i++) {
             System.out.println("\nLoop iteration :: #" + i);

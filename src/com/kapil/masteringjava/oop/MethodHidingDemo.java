@@ -1,7 +1,7 @@
 package com.kapil.masteringjava.oop;
 
 /**
- * Program to demonstrate method hiding in Java.
+ * Program to demonstrate Method Hiding in Java.
  * Demonstrates method hiding using static methods.
  *
  * @author Kapil Garg

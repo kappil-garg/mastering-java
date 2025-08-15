@@ -1,7 +1,7 @@
 package com.kapil.masteringjava.oop;
 
 /**
- * Program to demonstrate multiple inheritance in Java using interfaces.
+ * Program to demonstrate Multiple Inheritance in Java using Interfaces.
  * Demonstrates how a class can implement multiple interfaces to achieve multiple inheritance.
  *
  * @author Kapil Garg

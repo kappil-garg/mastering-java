@@ -1,7 +1,7 @@
 package com.kapil.masteringjava.oop;
 
 /**
- * Program to demonstrate Static keyword in Java.
+ * Program to demonstrate 'static' keyword in Java.
  * Demonstrates the use of static fields (shared across all instances) and static blocks (for initialization).
  *
  * @author Kapil Garg

@@ -25,12 +25,19 @@ public class LoopsDemo {
 
     }
 
+    /**
+     * Demonstrates a for loop that iterates from 1 to 3.
+     */
     private static void forLoopDemo() {
         for (int i = 1; i < 4; i++) {
             System.out.println("Value of i is :: " + i);
         }
     }
 
+    /**
+     * Demonstrates a while loop that iterates while the condition is true.
+     * It prints the value of i from 1 to 3.
+     */
     private static void whileLoopDemo() {
         int i = 1;
         while (i < 4) {
@@ -39,6 +46,10 @@ public class LoopsDemo {
         }
     }
 
+    /**
+     * Demonstrates a do-while loop that executes at least once.
+     * It prints the value of i from 1 to 3.
+     */
     private static void doWhileLoopDemo() {
         int i = 1;
         do {
@@ -47,6 +58,10 @@ public class LoopsDemo {
         } while (i < 4);
     }
 
+    /**
+     * Demonstrates an edge case for a do-while loop where the condition is false.
+     * The loop executes once before checking the condition.
+     */
     private static void doWhileEdgeCaseDemo() {
         int i = 5;
         do {

@@ -1,7 +1,7 @@
 package com.kapil.masteringjava.oop;
 
 /**
- * Program to demonstrate static nested class in Java.
+ * Program to demonstrate Static Nested Class in Java.
  * Demonstrates how a static nested class can access static members of its outer class.
  *
  * @author Kapil Garg

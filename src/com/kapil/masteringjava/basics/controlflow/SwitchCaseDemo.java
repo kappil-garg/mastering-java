@@ -16,6 +16,12 @@ public class SwitchCaseDemo {
         switchCaseDemo(5);
     }
 
+    /**
+     * Demonstrates a simple switch-case statement.
+     * It prints different messages based on the value of caseNumber.
+     *
+     * @param caseNumber The number to switch on.
+     */
     private static void switchCaseDemo(int caseNumber) {
         switch (caseNumber) {
             case 1:

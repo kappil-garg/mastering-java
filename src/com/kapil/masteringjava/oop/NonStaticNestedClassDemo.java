@@ -1,7 +1,7 @@
 package com.kapil.masteringjava.oop;
 
 /**
- * Program to demonstrate non-static nested class in Java.
+ * Program to demonstrate Non-Static Nested Class in Java.
  * Demonstrates how a non-static inner class can access both instance and static members of its outer class.
  *
  * @author Kapil Garg
